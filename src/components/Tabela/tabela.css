@@ -1,0 +1,22 @@
+.tabela {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  line-height: 3rem;
+  margin: 20px 0 0 10px;
+}
+
+.imc {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border-bottom: 1px solid black;
+  font-weight: bold;
+  padding-left: 7px;
+  text-align: center;
+}

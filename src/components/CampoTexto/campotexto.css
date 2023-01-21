@@ -1,0 +1,14 @@
+.legenda-campo {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+label {
+  display: inline-block;
+  min-width: 220px;
+  margin: 10px 15px;
+}
+
+input {
+  max-width: 60px;
+}
